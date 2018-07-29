@@ -22,4 +22,5 @@ public class Categoria {
 	public void setActiva(int activa) {
 		Activa = activa;
 	}
+	
 }
